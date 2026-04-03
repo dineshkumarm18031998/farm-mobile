@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "பண்ணை மேலாண்மை",
+    "slug": "farm-manager",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1B5E20"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#1B5E20"
+      },
+      "package": "com.farm.manager"
+    },
+    "plugins": []
+  }
+}
